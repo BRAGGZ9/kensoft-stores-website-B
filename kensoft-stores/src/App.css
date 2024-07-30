@@ -1,0 +1,9 @@
+.background {
+    background-image: url('/public/images/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: auto;
+    width: 100%;
+    font-family: 'Brandon Text', sans-serif;
+  }
+  

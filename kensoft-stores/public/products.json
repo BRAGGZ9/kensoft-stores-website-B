@@ -1,0 +1,37 @@
+[{
+    "id": 6,
+    "name": "Fishing Floater",
+    "description": "Strong and durable fishing floaters.",
+    "image": "/images/products/fishingfloaters.jpg"
+},
+  {
+      "id": 1,
+      "name": "Fishing Nets",
+      "description": "High quality fishing nets.",
+      "image": "/images/products/Fishnet.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Fishing Twine",
+      "description": "Durable fishing twine.",
+      "image": "/images/products/twines.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Fishing Hooks",
+      "description": "Sharp and strong fishing hooks.",
+      "image": "/images/products/hooks.png"
+  },
+  {
+      "id": 5,
+      "name": "Fishing Line",
+      "description": "Strong and durable fishing line.",
+      "image": "/images/products/line.png"
+  },
+{
+    "id": 7,
+    "name": "Fishing Suit",
+    "description": "Strong and durable fishing floaters.",
+    "image": "/images/products/Fishingsuit.png"
+}
+]
